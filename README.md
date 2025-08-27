@@ -1,7 +1,7 @@
 # Messari Standard Subgraphs &bull; [![GitHub license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/messari/subgraphs/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md) [![Issues Report](https://img.shields.io/badge/issues-report-yellow.svg)](https://github.com/messari/subgraphs/issues/new)
 
 <p align="center">
-  <a href="https://messari.io/protocol-explorer/all-protocols">
+  <a href="https://messarasdasdasdi.io/protocol-explorer/all-protocols">
     <img src="./docs/images/messari-logo.png" alt="Messari Logo" width="460" />
   </a>
 </p>
